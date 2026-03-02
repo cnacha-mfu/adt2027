@@ -10,15 +10,13 @@
 
 Total operating budget: **1,440,000 THB** (excludes Specialized Lab, which is funded separately)
 
-### School-wide Initiatives (30% = 432,000 THB)
+### School-wide Initiative (28.1% = 404,000 THB)
 
 | # | Initiative | Budget (THB) | % | Purpose |
 |---|-----------|-------------|---|---------|
-| W1 | Industry seminars and networking | 260,000 | 18.1% | Host and attend seminars, build industry connections across all teams |
-| W5 | Contingency and cross-team collaboration fund | 172,000 | 11.9% | Unplanned opportunities, joint initiatives between teams |
-| | **Subtotal** | **432,000** | **30.0%** | |
+| W1 | Seminar, industry networking, and alumni engagement | 404,000 | 28.1% | Host and attend seminars, build industry connections, and strengthen alumni network across all teams |
 
-### Teams and Programs (70% = 1,008,000 THB)
+### Teams and Programs (71.9% = 1,036,000 THB)
 
 | # | Team / Program | Budget (THB) | % | IIC Pillar |
 |---|----------------|-------------|---|------------|
@@ -27,13 +25,13 @@ Total operating budget: **1,440,000 THB** (excludes Specialized Lab, which is fu
 | 3 | Student Activities | 130,000 | 9.0% | Startup Ecosystem |
 | 4 | International Relations | 119,000 | 8.3% | International Collaboration |
 | 5 | PR & Communications | 80,000 | 5.6% | Brand & Outreach |
-| 6 | CE Program | 56,000 | 3.9% | — |
-| 7 | SE Program | 56,000 | 3.9% | — |
-| 8 | DCE Program | 38,000 | 2.6% | — |
-| 9 | MTA Program | 38,000 | 2.6% | — |
-| 10 | DTBI Program | 36,000 | 2.5% | — |
-| 11 | Graduate Programs | 28,000 | 1.9% | — |
-| | **Subtotal** | **1,008,000** | **70.0%** | |
+| 6 | CE Program | 81,000 | 5.6% | — |
+| 7 | MTA Program | 58,000 | 4.0% | — |
+| 8 | SE Program | 55,000 | 3.8% | — |
+| 9 | DTBI Program | 36,000 | 2.5% | — |
+| 10 | DEC Program | 25,000 | 1.7% | — |
+| 11 | Graduate Programs | 25,000 | 1.7% | — |
+| | **Subtotal** | **1,036,000** | **71.9%** | |
 | | **Grand Total** | **1,440,000** | **100%** | |
 
 ---
@@ -163,7 +161,7 @@ Key indicators for ADT with notable movement:
 
 ## 7. Academic Programs
 
-**Combined budget: 252,000 THB (17.5%)**
+**Combined budget: 280,000 THB (19.4%)**
 
 **Goal:** Every program improves teaching quality, curriculum relevance, and graduate outcomes — leveraging IIC resources.
 
@@ -171,12 +169,12 @@ Key indicators for ADT with notable movement:
 
 | Program | Budget (THB) | IIC Relevance |
 |---------|-------------|---------------|
-| CE (Computer Engineering) | 56,000 | High — robotics, embedded systems |
-| SE (Software Engineering) | 56,000 | High — AI software development |
-| DCE (Digital Creative Enterprise) | 38,000 | Medium — creative tech, XR |
-| MTA (Multimedia Technology & Animation) | 38,000 | Medium — visualization, digital content |
+| CE (Computer Engineering) | 81,000 | High — robotics, embedded systems |
+| MTA (Multimedia Technology and Animation) | 58,000 | Medium — visualization, digital content |
+| SE (Software Engineering) | 55,000 | High — AI software development |
 | DTBI (Digital Technology for Business Innovation) | 36,000 | Medium — tech business, startup mgmt |
-| Graduate Programs | 28,000 | High — research students (also funded via Research team) |
+| DEC (Digital Engineering and Communication) | 25,000 | Medium — digital systems, communication |
+| Graduate Programs (DT + CE) | 25,000 | High — research students (also funded via Research team) |
 
 ### Shared Objectives
 
@@ -198,8 +196,8 @@ All programs propose initiatives toward these objectives:
 1. Select an objective to support — **start with "Critical" priorities first**, then "High", then "Standard".
 2. Design a project/activity that addresses that objective, with **quantitative targets** aligned to the measures in the table.
 3. Verify the project **supports MoU 2569 KPI targets** listed in the KPI reference table.
-4. Consider whether the project can **link across teams** to amplify impact and request support from the W5 fund.
-5. Projects involving industry seminars or networking can **request additional support from the W1 fund**.
+4. Consider whether the project can **link across teams** to amplify impact.
+5. Projects involving industry seminars, networking, or alumni engagement can **request support from the W1 fund**.
 6. Submit proposals to the **ADT Strategy Board** (Dean + Team Leads) for approval.
 7. Track progress **quarterly** using stated measures.
 8. Specialized Lab team coordinates with all other teams to provide lab access and technical support.
