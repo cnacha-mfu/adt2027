@@ -69,7 +69,7 @@ Key indicators for ADT with notable movement:
 | R2 | Critical | Secure external research funding | Grant records (THB) | KPI 2.8 stagnant at 6.5M; IIC targets 170M university-wide |
 | R6 | Critical | Publish co-authored papers with international partners | Scopus co-authorship count | KPI 2.6 at 5 vs university 230; biggest gap |
 | R3 | High | Establish industry research collaborations | Signed MOUs/contracts | Foundation for IIC industry partnerships |
-| R4 | High | Recruit graduate research students | Enrollment records | Research capacity building for IIC labs |
+| R4 | High | Recruit graduate research students | Enrollment records | Builds research capacity ahead of IIC labs |
 | R5 | Standard | File patents and intellectual property | Patent office records | KPI 2.2 stable at 9; maintain momentum |
 
 ---
@@ -118,7 +118,7 @@ Key indicators for ADT with notable movement:
 |---|----------|-----------|---------|-----|
 | S2 | Critical | Grow student participation in hackathons and competitions | Event registration | Fastest way to build innovation culture and visibility |
 | S4 | Critical | Deliver student projects with community or industry impact | Project portfolio | KPI 2.9 area-based work; KPI 3.2 activities |
-| S1 | High | Incubate startups through IIC | Incubator records | IIC Pillar 3; 30 startups in 5-yr target |
+| S1 | High | Build startup incubation pipeline for future IIC | Incubator records | Prepares for IIC Pillar 3; 30 startups in 5-yr target |
 | S5 | High | Win external competition awards | Award records | Reputation building for IIC brand |
 | S3 | Standard | Establish student-led tech clubs | Club registration | Organizational; supports culture long-term |
 | S6 | Standard | Activate Maker Space utilization | Booking system | Infrastructure dependent on Specialized Lab |
@@ -163,7 +163,7 @@ Key indicators for ADT with notable movement:
 
 **Combined budget: 280,000 THB (19.4%)**
 
-**Goal:** Every program improves teaching quality, curriculum relevance, and graduate outcomes — leveraging IIC resources.
+**Goal:** Every program improves teaching quality, curriculum relevance, and graduate outcomes — preparing to leverage future IIC resources.
 
 ### Program Budgets
 
@@ -176,18 +176,14 @@ Key indicators for ADT with notable movement:
 | DEC (Digital Engineering and Communication) | 25,000 | Medium — digital systems, communication |
 | Graduate Programs (DT + CE) | 25,000 | High — research students (also funded via Research team) |
 
-### Shared Objectives
-
-All programs propose initiatives toward these objectives:
+### Objectives (All Programs)
 
 | # | Priority | Objective | Measure | Why |
 |---|----------|-----------|---------|-----|
-| C1 | Critical | Integrate IIC lab experiences into curriculum | Curriculum audit | Directly enables IIC; shows labs are used in teaching |
-| C3 | Critical | Improve student satisfaction with teaching quality | Course evaluations | KPI 1.12 from 80→85; biggest jump required |
-| C4 | High | Increase graduates holding industry certifications | Certification records | KPI 1.2 from 15→19; +4 gap to close |
-| C2 | High | Improve graduate employability | Graduate tracking survey | Core program outcome |
-| C5 | High | Strengthen industry engagement in teaching | Course reports | Supports IIC industry ecosystem |
-| C6 | Standard | Adopt innovative teaching methods | Teaching innovation log | Good practice; less urgent than quality targets |
+| C1 | Critical | Strengthen industry and alumni engagement through extra-curricular activities | Industry guest lectures, alumni events, MOU count | Builds industry/alumni network ahead of IIC; KPI 1.3 MoU 75→80% |
+| C2 | Critical | Increase student participation in competitions and project showcases | Competition entries, portfolio exhibitions | Builds visibility, validates skills, and attracts prospective students |
+| C3 | High | Increase graduates holding industry certifications | Certification records | KPI 1.2 from 15→19; +4 gap to close |
+| C4 | High | Assess curriculum gaps and plan alignment with future IIC labs | Gap analysis report and action plan | Achievable in 1 year; lays groundwork for curriculum updates when IIC launches |
 
 ---
 
