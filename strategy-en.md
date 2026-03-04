@@ -25,11 +25,11 @@ Total operating budget: **1,440,000 THB** (excludes Specialized Lab, which is fu
 | 3 | Student Activities | 130,000 | 9.0% | Startup Ecosystem |
 | 4 | International Relations | 119,000 | 8.3% | International Collaboration |
 | 5 | PR & Communications | 80,000 | 5.6% | Brand & Outreach |
-| 6 | CE Program | 81,000 | 5.6% | — |
-| 7 | MTA Program | 58,000 | 4.0% | — |
-| 8 | SE Program | 55,000 | 3.8% | — |
-| 9 | DTBI Program | 36,000 | 2.5% | — |
-| 10 | DEC Program | 25,000 | 1.7% | — |
+| 6 | CE Program | 68,000 | 4.7% | — |
+| 7 | MTA Program | 56,000 | 3.9% | — |
+| 8 | SE Program | 54,000 | 3.8% | — |
+| 9 | DTBI Program | 43,000 | 3.0% | — |
+| 10 | DCE Program | 34,000 | 2.4% | — |
 | 11 | Graduate Programs | 25,000 | 1.7% | — |
 | | **Subtotal** | **1,036,000** | **71.9%** | |
 | | **Grand Total** | **1,440,000** | **100%** | |
@@ -169,11 +169,11 @@ Key indicators for ADT with notable movement:
 
 | Program | Budget (THB) | IIC Relevance |
 |---------|-------------|---------------|
-| CE (Computer Engineering) | 81,000 | High — robotics, embedded systems |
-| MTA (Multimedia Technology and Animation) | 58,000 | Medium — visualization, digital content |
-| SE (Software Engineering) | 55,000 | High — AI software development |
-| DTBI (Digital Technology for Business Innovation) | 36,000 | Medium — tech business, startup mgmt |
-| DEC (Digital Engineering and Communication) | 25,000 | Medium — digital systems, communication |
+| CE (Computer Engineering) | 68,000 | High — robotics, embedded systems |
+| MTA (Multimedia Technology and Animation) | 56,000 | Medium — visualization, digital content |
+| SE (Software Engineering) | 54,000 | High — AI software development |
+| DTBI (Digital Technology for Business Innovation) | 43,000 | Medium — tech business, startup mgmt |
+| DCE (Digital Engineering and Communication) | 34,000 | Medium — digital systems, communication |
 | Graduate Programs (DT + CE) | 25,000 | High — research students (also funded via Research team) |
 
 ### Objectives (All Programs)
